@@ -68,7 +68,7 @@ You will need a terminal environment that can run Bash scripts (Linux, macOS, or
 
 1.  Clone this repository to your local machine:
     ```sh
-    git clone [https://github.com/](https://github.com/)bledxs/github-final-project.git
+    git clone https://github.com/bledxs/github-final-project.git
     ```
 2.  Navigate to the project directory:
     ```sh
